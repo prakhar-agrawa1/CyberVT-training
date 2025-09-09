@@ -1,6 +1,6 @@
 # Welcome to CyberVT's Cyber Training Program! (Cyber101)
 
-Hey there, future cybersecurity expert! Welcome to CyberVT's structured training program designed specifically for students ready to dive into the world of cybersecurity.
+Welcome to CyberVT's cybersecurity training program designed specifically for students ready to dive into the world of cybersecurity.
 
 ## What is This Program?
 The CyberVT Training Program is your gateway to developing real-world cybersecurity skills. Whether you're completely new to cybersecurity or looking to strengthen your foundation, this program meets you where you are and builds your skills through hands-on, practical training that mirrors what you'll encounter in the field.

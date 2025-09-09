@@ -7,8 +7,7 @@ This cryptography module is designed to give you a basic understanding of crypto
 
 + [CryptoHack: Introduction to CryptoHack Course](https://cryptohack.org/courses/intro/xor0/)
 + [CryptoPals: Crypto Challenge Set 1](https://cryptopals.com/sets/1)
-+ TryHackMe Modules
-  - [Cryptography Basics](https://tryhackme.com/room/cryptographybasics)
++ [Cryptography Basics](https://tryhackme.com/room/cryptographybasics)
 + Make a write-up of how to decrypt a message using an algorithm of your choice. You should be able to walk someone through the process as if they did not have any prior experience.
 
   ### Submit these to your respective facilitators. Reference the README for more info. 

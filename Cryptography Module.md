@@ -1,6 +1,7 @@
 # Cryptography Module
-#**About**
-##test
+This cryptography module is designed to give you a basic understanding of cryptography
+# Objectives
+  Understand the purpose and principles of encryption and decryption, as well as common cryptographic ciphers.
 
 ## Complete the following
 

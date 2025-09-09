@@ -17,3 +17,4 @@
 + [GDB Walkthrough](https://www.youtube.com/watch?v=VRsXKvITAZ4)
 + [Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8&ab_channel=HackUCF)
 + [Intro to Ghidra & Walkthrough](https://www.youtube.com/watch?v=sbDs6hImumc&ab_channel=NickBlundell)
++ [Intro to pwntools](https://www.youtube.com/watch?v=9wepzpQhhio&ab_channel=PinkDraconian)

@@ -13,6 +13,10 @@ To participate in the Cyber101 program, you will need to complete the following 
 + System Hardening
 + Programming
 
+## Cyber101 Facilitators:
++ Carson (cstownsend@vt.edu)
++ Sriram (sriramag@vt.edu)
+See instructions below on how to submit your work
 
 ## CTF Team Instructions
 
@@ -25,7 +29,8 @@ If you want to be sent to competitions with the CTF Team, you must complete and 
 + Reverse Engineering Module
 + Web Exploitation Module
 
-### Instructions for Submission
+
+# Instructions for Submission
 + Fork the repo
 + Add the evidence/writeups to the repo that you forked
 + Push the updates

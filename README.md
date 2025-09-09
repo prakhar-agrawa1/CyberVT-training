@@ -18,7 +18,7 @@ To participate in the Cyber101 program, you will need to complete the following 
 + Sriram (sriramag@vt.edu)
 See instructions below on how to submit your work
 
-## CTF Team Instructions
+# CTF Team Instructions
 
 If you want to be sent to competitions with the CTF Team, you must complete and submit proof for the following modules  
 
@@ -29,9 +29,11 @@ If you want to be sent to competitions with the CTF Team, you must complete and 
 + Reverse Engineering Module
 + Web Exploitation Module
 
+## CTF Team Facilitator:
++ Thomas (thomasc23@vt.edu or send it through Discord)
 
 # Instructions for Submission
 + Fork the repo
 + Add the evidence/writeups to the repo that you forked
 + Push the updates
-+ Share the link to your repo with CTF Team lead (Email: thomasc23@vt.edu or send it through Discord)
++ Share the link to your repo with your team lead/facilitator

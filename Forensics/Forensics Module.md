@@ -1,7 +1,11 @@
 # Forensics Module
+  
+# Objectives
+Understand the tools used to find hidden data inside files
+## Complete and Submit:
++ [Intro to Digital Forensics](https://tryhackme.com/room/introdigitalforensics)
++ Complete Six Forensics Challenges on [PicoCTF](https://picoctf.com/)
 
-## Complete the following
+  ### Submit these to your respective facilitators. Reference the README for more info. 
 
-+ TryHackMe Modules
-  - [Intro to Digital Forensics](https://tryhackme.com/room/introdigitalforensics)
-+ [picoCTF](https://play.picoctf.org/practice): Complete 6 Forensics Challenges
+# Resources

@@ -4,17 +4,14 @@
   Apply basic programming skills using python
   #### NOTE: You are not required to use Python to solve thse challenges, you may use whatever programming language you prefer. If you are new to programming, we highly recommend you start with Python to learn the basics.
 ## Complete and Submit:
-
-
-+ [Very Easy by korshunK](https://crackmes.one/crackme/688e6af68fac2855fe6fb2c1)
-+ [EZ crackme by R3tr0BS](https://crackmes.one/crackme/5fcfb87933c5d424269a1afc)
-+ [Reversing.kr easy ELF Challenge](http://reversing.kr/challenge.php)
-+ [Complete Modules 1-2 of Binex Tuts](https://github.com/devinfosec/binex_tuts)
++  Make a script that allows a program to enter the user enters a string and a numeric key.
++  Encode each character by shifting its ASCII value using the key.
++  Save the encoded output.
++  Add an option to decode it back to the original string.
++  Test with different keys and document the results. 
 
   ### Submit these to your respective facilitators. Reference the README for more info. 
 
 # Resources
-+ [Ghidra Walkthrough](https://www.youtube.com/watch?v=fTGTnrgjuGA)
-+ [GDB Walkthrough](https://www.youtube.com/watch?v=VRsXKvITAZ4)
-+ [Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8&ab_channel=HackUCF)
-+ [Intro to Ghidra & Walkthrough](https://www.youtube.com/watch?v=sbDs6hImumc&ab_channel=NickBlundell)
++ [Python For Beginners](https://www.youtube.com/watch?app=desktop&v=kqtD5dpn9C8&t=3294s&ab_channel=ProgrammingwithMosh)
++ [Python Basics](https://www.freecodecamp.org/news/learn-python-basics/)

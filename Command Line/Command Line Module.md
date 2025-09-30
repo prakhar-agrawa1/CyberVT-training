@@ -15,7 +15,7 @@ Think of this module as learning to speak the language that all cybersecurity to
 
 ## Training Objectives
 
-By the end of this module, you'll be able to:
+By the end of this modu, you'll be able to:
 - Navigate file systems efficiently using command-line navigation
 - Edit files and manage data using terminal text editors and commands
 - Understand and modify user permissions and file access controls

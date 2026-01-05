@@ -30,3 +30,4 @@
 
 1. Ran "cd inhere"
 2. Ran <ls> - nothing. "ls -la" revealed a hidden file "...Hiding-From-You"
+3. 

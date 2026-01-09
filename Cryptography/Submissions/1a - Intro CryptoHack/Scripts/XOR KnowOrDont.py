@@ -4,10 +4,10 @@ enc = bytes.fromhex("0e0b213f26041e480b26217f27342e175d0e070a3c5b103e2526217f273
 
 for i in range(len(enc)):
     curr = enc[0:i]
-    key = xor(curr, "crypto{")
-    print(key)
+    curr_key = xor(curr, "crypto{")
+    print(curr_key)
 
-# Key = myXORkey? Recurring string in output.
+# Key = myXORkey? Recurring string "myXORke+y" in output.
 
 flag = xor(enc, "myXORkey")
 print(flag)
